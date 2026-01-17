@@ -33,4 +33,3 @@ deepseek.com
 reddit.com
 redd.it
 redditstatic.com
-instagram.com

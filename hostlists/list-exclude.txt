@@ -30,3 +30,4 @@ fastly.net
 fastly.com
 nixos.org
 deepseek.com
+reddit.com

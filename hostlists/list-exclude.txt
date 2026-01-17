@@ -31,6 +31,3 @@ fastly.com
 nixos.org
 deepseek.com
 reddit.com
-redd.it
-redditstatic.com
-instagram.com
